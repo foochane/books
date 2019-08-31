@@ -1,12 +1,13 @@
-# books
-整理一些书籍
+## 整理一些书籍
+
+### 书籍目录如下：
 
 ```
 │
 ├─C&C++
 │      C 语言库函数使用大全.pdf
 │      C和指针.pdf
-│      Effective C++ 第2版(中文版).pdf
+│      Effective C++第2版(中文版).pdf
 │      Thinking C++.pdf
 │
 ├─git
