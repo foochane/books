@@ -79,7 +79,7 @@
 │      Machine Learning with TensorFlow.pdf
 │      [英文版]叶斯思维：统计建模的Python学习法.pdf
 │      机器学习_周志华.pdf
-│      机器学习实战.pdf
+│      机器学习实战-中文版.pdf
 │      机器学习导论.pdf
 │      模式识别和机器学习PRML_伯克利教授中文翻译版.pdf
 │      百面机器学习.pdf
