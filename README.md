@@ -5,8 +5,8 @@
 ```
 │
 ├─01-C&C++
-│      C语言库函数使用大全.pdf
 │      C和指针.pdf
+│      C语言库函数使用大全.pdf
 │      Effective C++第2版(中文版).pdf
 │      Thinking C++.pdf
 │
@@ -48,6 +48,8 @@
 │      TensorFlow Machine Learning Cookbook.pdf
 │      Tensorflow 实战Google深度学习框架.pdf
 │      tensorflow-internals.pdf
+│      TensorFlow实战_黄文坚.pdf
+│      面向机器智能的TensorFlow实践 (智能系统与技术丛书)_.pdf
 │
 ├─10-机器学习
 │      Machine Learning Applications Using Python.pdf
@@ -58,6 +60,7 @@
 │      机器学习实战-中文版.pdf
 │      机器学习导论.pdf
 │      模式识别和机器学习PRML_伯克利教授中文翻译版.pdf
+│      深度学习 21天实战Caffe.pdf
 │      百面机器学习.pdf
 │      统计学习方法(李航).pdf
 │      集体智慧编程中文版.pdf
@@ -87,6 +90,7 @@
 │      Spark for Data Science.pdf
 │      Spark快速大数据分析.pdf
 │      Spark机器学习.pdf
+│      自己动手做大数据系统.pdf
 │
 ├─14-数据挖掘
 │      Python数据分析与挖掘实战.pdf
@@ -113,5 +117,4 @@
         不止代码.pdf
         学习之道（美）乔希·维茨金.pdf
         数学之美.pdf
-
 ```
