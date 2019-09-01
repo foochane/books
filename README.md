@@ -35,7 +35,7 @@
 │      learn-github-from-zero.pdf
 │
 ├─07-LaTeX
-│      LaTeX入门（刘海洋）_.pdf
+│      LaTeX入门(刘海洋).pdf
 │      一份不太简短的LATEX介绍.pdf
 │
 ├─08-Keras
@@ -56,11 +56,11 @@
 │      Machine Learning with TensorFlow.pdf
 │      Practical Machine Learning with Python.pdf
 │      叶斯思维：统计建模的Python学习法.pdf
-│      机器学习_周志华.pdf
+│      机器学习(周志华).pdf
 │      机器学习实战-中文版.pdf
 │      机器学习导论.pdf
-│      模式识别和机器学习PRML_伯克利教授中文翻译版.pdf
-│      深度学习 21天实战Caffe.pdf
+│      模式识别与机器学习(中文).pdf
+│      深度学习21天实战Caffe.pdf
 │      百面机器学习.pdf
 │      统计学习方法(李航).pdf
 │      集体智慧编程中文版.pdf
@@ -79,8 +79,7 @@
 │      Deep Learning for Natural Language Processing.pdf
 │      NLP汉语自然语言处理原理与实践.pdf
 │      PYTHON自然语言处理中文版.pdf
-│      模式识别与机器学习 中文版.pdf
-│      统计自然语言处理基础(中文版.pdf
+│      统计自然语言处理基础(中文版).pdf
 │
 ├─13-大数据
 │      Learning PySpark.pdf
