@@ -24,7 +24,7 @@
 │      精通Python设计模式.pdf
 │
 ├─04-Scala
-│      《快学Scala》.pdf
+│      快学Scala.pdf
 │
 ├─05-Linux
 │      Linux 内核0.11 完全注释-1.9.5.pdf
@@ -42,9 +42,6 @@
 │      Python深度学习.pdf
 │
 ├─09-TensorFlow
-│      Deep Learning with Python (Nikhil Ketkar).pdf
-│      Deep Learning with Python.pdf
-│      Neural Network and Deep Learning - 中文.pdf
 │      Practical Python AI Projects.pdf
 │      Pro Deep Learning with TensorFlow.pdf
 │      TensorFlow for Deep Learning.pdf
@@ -66,6 +63,8 @@
 │      集体智慧编程中文版.pdf
 │
 ├─11-深度学习
+│      Deep Learning with Python (Nikhil Ketkar).pdf
+│      Deep Learning with Python(François Chollet).pdf
 │      Neural Network and Deep Learning(中文版).pdf
 │      一份简短的深度学习笔记(朱鉴).pdf
 │      动⼿学深度学习.pdf
